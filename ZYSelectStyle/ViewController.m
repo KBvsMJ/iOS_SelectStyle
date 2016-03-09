@@ -7,6 +7,9 @@
 //
 
 #import "ViewController.h"
+#import "ZYSingleSelectViewController.h"
+#import "ZYMultipleSelectViewController.h"
+#import "ZYChaosSelectViewController.h"
 
 @interface ViewController ()
 
@@ -16,12 +19,21 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    self.title = @"方式";
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (IBAction)selectClicked:(UIButton *)sender {
+    switch (sender.tag) {
+        case 0:
+            [self.navigationController pushViewController:[ZYSingleSelectViewController new] animated:YES];
+            break;
+        case 1:
+            [self.navigationController pushViewController:[ZYMultipleSelectViewController new] animated:YES];
+            break;
+        case 2:
+            [self.navigationController pushViewController:[ZYChaosSelectViewController new] animated:YES];
+            break;
+    }
 }
 
 @end

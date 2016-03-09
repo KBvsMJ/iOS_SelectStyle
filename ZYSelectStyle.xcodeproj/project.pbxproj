@@ -13,6 +13,22 @@
 		F5C45B821C8FBBBF0046EA0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B801C8FBBBF0046EA0E /* Main.storyboard */; };
 		F5C45B841C8FBBBF0046EA0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B831C8FBBBF0046EA0E /* Assets.xcassets */; };
 		F5C45B871C8FBBBF0046EA0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B851C8FBBBF0046EA0E /* LaunchScreen.storyboard */; };
+		F5C45B911C8FBBE90046EA0E /* ZYSingleSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C45B8F1C8FBBE90046EA0E /* ZYSingleSelectViewController.m */; };
+		F5C45B921C8FBBE90046EA0E /* ZYSingleSelectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B901C8FBBE90046EA0E /* ZYSingleSelectViewController.xib */; };
+		F5C45B961C8FBC120046EA0E /* ZYMultipleSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C45B941C8FBC120046EA0E /* ZYMultipleSelectViewController.m */; };
+		F5C45B971C8FBC120046EA0E /* ZYMultipleSelectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B951C8FBC120046EA0E /* ZYMultipleSelectViewController.xib */; };
+		F5C45B9B1C8FBC540046EA0E /* ZYSelectCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C45B991C8FBC540046EA0E /* ZYSelectCell.m */; };
+		F5C45B9C1C8FBC540046EA0E /* ZYSelectCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B9A1C8FBC540046EA0E /* ZYSelectCell.xib */; };
+		F5C45BA61C8FBD100046EA0E /* danxuan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B9E1C8FBD100046EA0E /* danxuan@2x.png */; };
+		F5C45BA71C8FBD100046EA0E /* danxuan@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45B9F1C8FBD100046EA0E /* danxuan@3x.png */; };
+		F5C45BA81C8FBD100046EA0E /* danxuanzhong@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA01C8FBD100046EA0E /* danxuanzhong@2x.png */; };
+		F5C45BA91C8FBD100046EA0E /* danxuanzhong@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA11C8FBD100046EA0E /* danxuanzhong@3x.png */; };
+		F5C45BAA1C8FBD100046EA0E /* fuxuan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA21C8FBD100046EA0E /* fuxuan@2x.png */; };
+		F5C45BAB1C8FBD100046EA0E /* fuxuan@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA31C8FBD100046EA0E /* fuxuan@3x.png */; };
+		F5C45BAC1C8FBD100046EA0E /* fuxuanzhong@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA41C8FBD100046EA0E /* fuxuanzhong@2x.png */; };
+		F5C45BAD1C8FBD100046EA0E /* fuxuanzhong@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BA51C8FBD100046EA0E /* fuxuanzhong@3x.png */; };
+		F5C45BB41C8FF7DC0046EA0E /* ZYChaosSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5C45BB21C8FF7DC0046EA0E /* ZYChaosSelectViewController.m */; };
+		F5C45BB51C8FF7DC0046EA0E /* ZYChaosSelectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5C45BB31C8FF7DC0046EA0E /* ZYChaosSelectViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,26 @@
 		F5C45B831C8FBBBF0046EA0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5C45B861C8FBBBF0046EA0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5C45B881C8FBBBF0046EA0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5C45B8E1C8FBBE90046EA0E /* ZYSingleSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYSingleSelectViewController.h; sourceTree = "<group>"; };
+		F5C45B8F1C8FBBE90046EA0E /* ZYSingleSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYSingleSelectViewController.m; sourceTree = "<group>"; };
+		F5C45B901C8FBBE90046EA0E /* ZYSingleSelectViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYSingleSelectViewController.xib; sourceTree = "<group>"; };
+		F5C45B931C8FBC120046EA0E /* ZYMultipleSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYMultipleSelectViewController.h; sourceTree = "<group>"; };
+		F5C45B941C8FBC120046EA0E /* ZYMultipleSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYMultipleSelectViewController.m; sourceTree = "<group>"; };
+		F5C45B951C8FBC120046EA0E /* ZYMultipleSelectViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYMultipleSelectViewController.xib; sourceTree = "<group>"; };
+		F5C45B981C8FBC540046EA0E /* ZYSelectCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYSelectCell.h; sourceTree = "<group>"; };
+		F5C45B991C8FBC540046EA0E /* ZYSelectCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYSelectCell.m; sourceTree = "<group>"; };
+		F5C45B9A1C8FBC540046EA0E /* ZYSelectCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYSelectCell.xib; sourceTree = "<group>"; };
+		F5C45B9E1C8FBD100046EA0E /* danxuan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "danxuan@2x.png"; sourceTree = "<group>"; };
+		F5C45B9F1C8FBD100046EA0E /* danxuan@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "danxuan@3x.png"; sourceTree = "<group>"; };
+		F5C45BA01C8FBD100046EA0E /* danxuanzhong@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "danxuanzhong@2x.png"; sourceTree = "<group>"; };
+		F5C45BA11C8FBD100046EA0E /* danxuanzhong@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "danxuanzhong@3x.png"; sourceTree = "<group>"; };
+		F5C45BA21C8FBD100046EA0E /* fuxuan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fuxuan@2x.png"; sourceTree = "<group>"; };
+		F5C45BA31C8FBD100046EA0E /* fuxuan@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fuxuan@3x.png"; sourceTree = "<group>"; };
+		F5C45BA41C8FBD100046EA0E /* fuxuanzhong@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fuxuanzhong@2x.png"; sourceTree = "<group>"; };
+		F5C45BA51C8FBD100046EA0E /* fuxuanzhong@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fuxuanzhong@3x.png"; sourceTree = "<group>"; };
+		F5C45BB11C8FF7DC0046EA0E /* ZYChaosSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYChaosSelectViewController.h; sourceTree = "<group>"; };
+		F5C45BB21C8FF7DC0046EA0E /* ZYChaosSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYChaosSelectViewController.m; sourceTree = "<group>"; };
+		F5C45BB31C8FF7DC0046EA0E /* ZYChaosSelectViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYChaosSelectViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +94,23 @@
 		F5C45B761C8FBBBF0046EA0E /* ZYSelectStyle */ = {
 			isa = PBXGroup;
 			children = (
+				F5C45B9D1C8FBCFE0046EA0E /* images */,
 				F5C45B7A1C8FBBBF0046EA0E /* AppDelegate.h */,
 				F5C45B7B1C8FBBBF0046EA0E /* AppDelegate.m */,
 				F5C45B7D1C8FBBBF0046EA0E /* ViewController.h */,
 				F5C45B7E1C8FBBBF0046EA0E /* ViewController.m */,
+				F5C45B981C8FBC540046EA0E /* ZYSelectCell.h */,
+				F5C45B991C8FBC540046EA0E /* ZYSelectCell.m */,
+				F5C45B9A1C8FBC540046EA0E /* ZYSelectCell.xib */,
+				F5C45B8E1C8FBBE90046EA0E /* ZYSingleSelectViewController.h */,
+				F5C45B8F1C8FBBE90046EA0E /* ZYSingleSelectViewController.m */,
+				F5C45B901C8FBBE90046EA0E /* ZYSingleSelectViewController.xib */,
+				F5C45B931C8FBC120046EA0E /* ZYMultipleSelectViewController.h */,
+				F5C45B941C8FBC120046EA0E /* ZYMultipleSelectViewController.m */,
+				F5C45B951C8FBC120046EA0E /* ZYMultipleSelectViewController.xib */,
+				F5C45BB11C8FF7DC0046EA0E /* ZYChaosSelectViewController.h */,
+				F5C45BB21C8FF7DC0046EA0E /* ZYChaosSelectViewController.m */,
+				F5C45BB31C8FF7DC0046EA0E /* ZYChaosSelectViewController.xib */,
 				F5C45B801C8FBBBF0046EA0E /* Main.storyboard */,
 				F5C45B831C8FBBBF0046EA0E /* Assets.xcassets */,
 				F5C45B851C8FBBBF0046EA0E /* LaunchScreen.storyboard */,
@@ -77,6 +126,21 @@
 				F5C45B781C8FBBBF0046EA0E /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F5C45B9D1C8FBCFE0046EA0E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				F5C45B9E1C8FBD100046EA0E /* danxuan@2x.png */,
+				F5C45B9F1C8FBD100046EA0E /* danxuan@3x.png */,
+				F5C45BA01C8FBD100046EA0E /* danxuanzhong@2x.png */,
+				F5C45BA11C8FBD100046EA0E /* danxuanzhong@3x.png */,
+				F5C45BA21C8FBD100046EA0E /* fuxuan@2x.png */,
+				F5C45BA31C8FBD100046EA0E /* fuxuan@3x.png */,
+				F5C45BA41C8FBD100046EA0E /* fuxuanzhong@2x.png */,
+				F5C45BA51C8FBD100046EA0E /* fuxuanzhong@3x.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +200,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5C45BAC1C8FBD100046EA0E /* fuxuanzhong@2x.png in Resources */,
 				F5C45B871C8FBBBF0046EA0E /* LaunchScreen.storyboard in Resources */,
+				F5C45BA81C8FBD100046EA0E /* danxuanzhong@2x.png in Resources */,
+				F5C45BA91C8FBD100046EA0E /* danxuanzhong@3x.png in Resources */,
 				F5C45B841C8FBBBF0046EA0E /* Assets.xcassets in Resources */,
+				F5C45B9C1C8FBC540046EA0E /* ZYSelectCell.xib in Resources */,
+				F5C45BA71C8FBD100046EA0E /* danxuan@3x.png in Resources */,
+				F5C45B921C8FBBE90046EA0E /* ZYSingleSelectViewController.xib in Resources */,
+				F5C45BAA1C8FBD100046EA0E /* fuxuan@2x.png in Resources */,
+				F5C45BB51C8FF7DC0046EA0E /* ZYChaosSelectViewController.xib in Resources */,
 				F5C45B821C8FBBBF0046EA0E /* Main.storyboard in Resources */,
+				F5C45BA61C8FBD100046EA0E /* danxuan@2x.png in Resources */,
+				F5C45BAD1C8FBD100046EA0E /* fuxuanzhong@3x.png in Resources */,
+				F5C45BAB1C8FBD100046EA0E /* fuxuan@3x.png in Resources */,
+				F5C45B971C8FBC120046EA0E /* ZYMultipleSelectViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,6 +226,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5C45B7F1C8FBBBF0046EA0E /* ViewController.m in Sources */,
+				F5C45B961C8FBC120046EA0E /* ZYMultipleSelectViewController.m in Sources */,
+				F5C45BB41C8FF7DC0046EA0E /* ZYChaosSelectViewController.m in Sources */,
+				F5C45B9B1C8FBC540046EA0E /* ZYSelectCell.m in Sources */,
+				F5C45B911C8FBBE90046EA0E /* ZYSingleSelectViewController.m in Sources */,
 				F5C45B7C1C8FBBBF0046EA0E /* AppDelegate.m in Sources */,
 				F5C45B791C8FBBBF0046EA0E /* main.m in Sources */,
 			);
